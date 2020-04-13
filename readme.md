@@ -1,0 +1,1 @@
+This is sample api for payment requests - simple and helps to setup your own methods of payment
